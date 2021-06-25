@@ -1,0 +1,10 @@
+<svg id="ic-star-half-24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+	<defs>
+		<clipPath id="clip-path">
+			<path id="Path_277" data-name="Path 277" d="M0,0H35V35H0Z" fill="#00ba00" />
+		</clipPath>
+	</defs>
+	<g id="ic-star-half-24px-2" data-name="ic-star-half-24px" clip-path="url(#clip-path)">
+		<path id="Path_276" data-name="Path 276" d="M31.167,12.558l-10.485-.9L16.583,2l-4.1,9.669L2,12.558l7.962,6.9L7.571,29.708l9.013-5.44,9.013,5.44L23.219,19.456ZM16.583,21.542V7.979l2.494,5.892,6.387.554-4.842,4.2,1.458,6.242Z" transform="translate(0.917 0.917)" fill="#00ba00" />
+	</g>
+</svg>

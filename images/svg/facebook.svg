@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="facebook" transform="translate(-240 -658)">
+    <g id="Black" transform="translate(-200 -160)">
+      <path id="Facebook-2" data-name="Facebook" d="M218.695,195H201.932A1.932,1.932,0,0,1,200,193.068V161.932A1.931,1.931,0,0,1,201.932,160h31.137A1.932,1.932,0,0,1,235,161.932v31.136A1.932,1.932,0,0,1,233.068,195H224.15V181.446H228.7l.681-5.282H224.15v-3.372c0-1.529.425-2.572,2.618-2.572h2.8v-4.724a37.391,37.391,0,0,0-4.076-.208c-4.033,0-6.794,2.462-6.794,6.982v3.9h-4.561v5.282h4.561V195Z" transform="translate(240 658)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
